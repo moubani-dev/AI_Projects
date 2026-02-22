@@ -2,6 +2,7 @@
 
 A real-time face detection application built with Python and OpenCV. Uses Haar Cascade classifiers to detect and highlight faces through a live webcam feed.
 
+
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat-square&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
@@ -15,6 +16,9 @@ A real-time face detection application built with Python and OpenCV. Uses Haar C
 - **Live face counter** displayed directly on the video feed
 - **Snapshot capture** — save the current frame with a single keypress
 - **Lightweight & fast** — no deep learning dependencies required
+
+<img width="1440" height="900" alt="Screenshot 2026-02-22 at 16 49 48" src="https://github.com/user-attachments/assets/1ae319a3-5e59-4bf4-8afb-72667d09d3c9" />
+
 
 ---
 
